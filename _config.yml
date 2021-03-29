@@ -37,13 +37,9 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo:  #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   email: 2380558760@qq.com
-  facebook: #https://www.facebook.com/<>
   github: /CryingPumpkin
-  instagram: #https://instagram.com/<>
-  twitter: # https://www.twitter.com/<your_twitter_username> 
-  youtube: # channel/<your_long_string> or user/<user-name>
+  steam: https://steamcommunity.com/id/2380558760/
 
 # 站点页脚的文字
 footer-text: Copyright (c) 2021 来自Los!
