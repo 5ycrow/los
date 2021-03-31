@@ -4,13 +4,8 @@ title: 关于
 permalink: /about/
 ---
 
-<h1>About Me</h1>
 
-<div style="float:right">
-    <img src="https://i.loli.net/2021/03/29/3xBDoATb1JVS6fk.jpg" width="150">
-</div>
-
-**ID：** CryingPumpkin
+**姓&emsp;&emsp;名：** CryingPumpkin
 
 **邮&emsp;&emsp;箱：** 2380558760@qq.com
 
