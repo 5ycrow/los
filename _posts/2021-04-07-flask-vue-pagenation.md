@@ -22,6 +22,8 @@ toc: true
 limit：限制本次查询条数
 offset：从头开始隐藏查询的条数
 
+<!-- more -->
+
 前端js传值
 offset:(this.currentPage-1)*this.pageSize,limit:this.pageSize
 后端利用
