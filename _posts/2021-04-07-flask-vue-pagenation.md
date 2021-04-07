@@ -3,7 +3,7 @@ layout: post
 title: vue+flask分页问题
 date: 2021-04-07
 Author: Los
-tags: [Vue,Flask]
+tags: [vue,flask]
 comments: false
 ---
 
