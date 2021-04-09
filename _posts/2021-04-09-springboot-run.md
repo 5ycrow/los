@@ -66,6 +66,8 @@ AutoConfigurationImportSelector中的方法getCandidateConfigurations，得到�
 
 SpringBoot自动化配置关键组件关系图
 mybatis-spring-boot-starter、spring-boot-starter-web等组件的META-INF文件下均含有spring.factories文件，自动配置模块中，SpringFactoriesLoader收集到文件中的类全名并返回一个类全名的数组，返回的类全名通过反射被实例化，就形成了具体的工厂实例，工厂实例来生成组件具体需要的bean。
-————————————————
+
+
+
 版权声明：本文为CSDN博主「牧竹子」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
 原文链接：https://blog.csdn.net/zjcjava/article/details/84028222
