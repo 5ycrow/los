@@ -7,4 +7,4 @@ tags: [JAVA]
 comments: false
 ---
 
-https://blog.csdn.net/cartoon_/article/details/101720731
+[Queue与Deque的区别](https://blog.csdn.net/cartoon_/article/details/101720731)
