@@ -3,7 +3,7 @@ layout: post
 title: SpringBoot配置mp代码生成，分页以及swagger2
 date: 2021-04-06
 Author: Los
-tags: [springBoot,mybatisplus]
+tags: [springboot,mybatisplus]
 comments: false
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: SpringCloud与SpringBoot区别
 date: 2021-03-31
 Author: Los
-tags: [springBoot,springcloud]
+tags: [springboot,springcloud]
 comments: false
 ---
 
